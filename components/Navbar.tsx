@@ -8,6 +8,7 @@ const links = [
   { href: "/mi-historia", label: "Mi Historia" },
   { href: "/consultas", label: "Consultas" },
   { href: "/testimonios", label: "Testimonios" },
+  { href: "/mi-canal", label: "Mi Canal" },
 ];
 
 const WA_LINK = "https://wa.me/message/I6Z4V2NBJQ7QO1";

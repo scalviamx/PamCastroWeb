@@ -39,7 +39,7 @@ export default function Consultas() {
             </h1>
             <p className="text-[#6B6B60] text-base leading-relaxed mb-8" style={{ fontFamily: "var(--font-raleway)" }}>
               Las consultas son 100% en línea por videollamada de WhatsApp. Mi objetivo es ayudarte a alcanzar
-              un estado de salud ideal con excelente funcionamiento digestivo, regulación hormonal y metabólica —
+              un estado de salud ideal con excelente funcionamiento digestivo, regulación hormonal y metabólica,
               sin dietas que dañen tu salud y sin matarte de hambre.
             </p>
             <a href={WA_LINK} target="_blank" rel="noopener noreferrer"

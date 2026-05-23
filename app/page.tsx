@@ -48,7 +48,7 @@ export default function Home() {
               <em className="text-[#3D6B4F] not-italic">no solo tu peso.</em>
             </h1>
             <p className="text-[#6B6B60] text-lg leading-relaxed mb-10 max-w-xl" style={{ fontFamily: "var(--font-raleway)" }}>
-              Soy nutrióloga clínica especializada en condiciones autoinmunes. Diseño planes de alimentación 100% personalizados que tratan la raíz de tus síntomas — sin medicamentos, sin dietas de hambre.
+              Soy nutrióloga clínica especializada en condiciones autoinmunes. Diseño planes de alimentación 100% personalizados que tratan la raíz de tus síntomas, sin medicamentos, sin dietas de hambre.
             </p>
             <div className="flex flex-wrap gap-4">
               <a href={WA_LINK} target="_blank" rel="noopener noreferrer"
@@ -123,7 +123,7 @@ export default function Home() {
               Yo también tengo Hashimoto. Y dos diagnósticos más.
             </h2>
             <p className="text-[#C8DDD0] text-base leading-relaxed mb-8" style={{ fontFamily: "var(--font-raleway)" }}>
-              Mi camino comenzó cuando fui mal diagnosticada hace más de 20 años. Pasé una década entrando y saliendo del hospital. Esa experiencia me llevó a estudiar nutrición, especializarme en España y certificarme en Harvard. No solo entiendo tu condición desde los libros — la vivo todos los días.
+              Mi camino comenzó cuando fui mal diagnosticada hace más de 20 años. Pasé una década entrando y saliendo del hospital. Esa experiencia me llevó a estudiar nutrición, especializarme en España y certificarme en Harvard. No solo entiendo tu condición desde los libros, la vivo todos los días.
             </p>
             <Link href="/mi-historia"
               className="inline-flex items-center gap-2 border border-white/30 text-white font-medium px-7 py-3.5 rounded-full hover:bg-white/10 transition-all duration-200 text-sm"

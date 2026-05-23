@@ -6,7 +6,7 @@ const WA_LINK = "https://wa.me/message/I6Z4V2NBJQ7QO1";
 
 const milestones = [
   { year: "Hace 20+ años", title: "El diagnóstico equivocado", body: "Fui mal diagnosticada con hipotiroidismo. Se utilizó hormona tiroidea para promover pérdida de peso. Las consecuencias fueron graves." },
-  { year: "10 años", title: "Entrando y saliendo del hospital", body: "Mi sistema inmune reaccionó al tratamiento. Desarrollé Hashimoto — una condición en que el sistema inmune ataca la tiroides. Ahora sí necesitaba el medicamento de por vida." },
+  { year: "10 años", title: "Entrando y saliendo del hospital", body: "Mi sistema inmune reaccionó al tratamiento. Desarrollé Hashimoto, una condición en que el sistema inmune ataca la tiroides. Ahora sí necesitaba el medicamento de por vida." },
   { year: "Decisión", title: "Estudié nutrición para entenderme a mí misma", body: "Ya tenía carrera como Chef profesional. Pero decidí estudiar nutrición para encontrar respuestas. Me di cuenta de que la nutrición tradicional se enfocaba en el peso, no en la raíz." },
   { year: "Especialización", title: "España + Harvard", body: "Me especialicé en Nutrición Clínica y Endocrinología en España. Luego fui aceptada en Harvard Medical School para certificaciones en Endocrinología Clínica." },
   { year: "Tercer diagnóstico", title: "Artritis SeroPositiva y Síndrome de Sjogren", body: "Años de dolor sin explicación. Médicos que desestimaron mis síntomas. Hasta que finalmente llegaron dos diagnósticos más. Mi enemigo tenía nombre." },
@@ -112,7 +112,7 @@ export default function MiHistoria() {
           </h2>
           <p className="text-[#9C9C8E] text-base leading-relaxed mb-10" style={{ fontFamily: "var(--font-raleway)" }}>
             No te voy a decir que un diagnóstico autoinmune es fácil. Pero sí puedo decirte que con el enfoque
-            nutricional correcto, es posible recuperar calidad de vida — sin dolor crónico, sin inflamación constante,
+            nutricional correcto, es posible recuperar calidad de vida, sin dolor crónico, sin inflamación constante,
             y sin abandonar los alimentos que amas.
           </p>
           <a href={WA_LINK} target="_blank" rel="noopener noreferrer"

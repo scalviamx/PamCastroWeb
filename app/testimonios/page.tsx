@@ -14,7 +14,7 @@ const testimonials = [
     name: "Valeria M.",
     condition: "Artritis SeroPositiva",
     time: "5 meses de seguimiento",
-    quote: "Nadie me había explicado la conexión entre lo que como y mis brotes de artritis. El plan de Pam fue la primera vez que vi resultados reales — menos inflamación, menos dolor, más energía.",
+    quote: "Nadie me había explicado la conexión entre lo que como y mis brotes de artritis. El plan de Pam fue la primera vez que vi resultados reales,  menos inflamación, menos dolor, más energía.",
   },
   {
     name: "Carmen L.",
